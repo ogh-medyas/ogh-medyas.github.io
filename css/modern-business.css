@@ -39,6 +39,8 @@ body {
 
 footer.navbar {
     margin-bottom: 0;
+    border: none;
+    border-radius: 0;
 }
 
 footer, footer a, footer a:hover {
